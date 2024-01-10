@@ -102,3 +102,7 @@ AudioEvent_Survivor_Rush_Slide
 AudioEvent_Survivor_Shuffle
 AudioEvent_Survivor_Shuffle_Crouch
 AudioEvent_Survivor_Walk
+OnGruntBeartrap
+OnGruntScreamMoriK17
+OnGruntScreamMoriK25
+OnStateInjuredBeartrap
