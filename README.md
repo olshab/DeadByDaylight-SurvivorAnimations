@@ -20,7 +20,7 @@ There are two types of Anim Notifies used in DBD anim sequences:
 
 1. Open the AnimSequence asset
 2. In the sequencer right click on the notify track 1 and choose `Add Notify` -> `Skeleton Notifies` -> your notify name. If it doesn't exist yet, create it by choosing  `Add Notify` -> `New Notify`.
-3. Right click on newly added notify and choose set `Notify Begin Time`.
+3. Right click on newly added notify and set `Notify Begin Time`.
 
 ![AddingAnimNotify](https://github.com/olshab/DeadByDaylight-SurvivorAnimations/blob/main/Resources/AddingAnimNotifies.gif)
 
